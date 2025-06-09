@@ -2,9 +2,9 @@
 <h3 align="center">🌐 MCA in Cloud Computing | Passionate Developer | Lifelong Learner</h3>
 
 - 🔭 I’m currently studying at *Parul University*
-- 🌱 I’m learning *JavaScript, Python, React, and Cloud Computing*
+- 🌱 I’m learning *JavaScript, Html/css, React, and Cloud Computing*
 - 💬 Ask me about *Web Dev, GitHub, and JavaScript Basics*
-- 📫 How to reach me: *ankitadhaakad@gmail.com*
+- 📫 How to reach me: *ankudhakad444@gmail.com*
 - ⚡ Fun fact: I love to code and explore new tech every day!
 
 ---
