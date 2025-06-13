@@ -11,7 +11,6 @@
 
 ### 🛠 Languages and Tools:
 <p>
-  
   <img src="https://img.shields.io/badge/-Python-3776AB?&logo=python" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/-HTML5-E34F26?&logo=html5&logoColor=white" />
@@ -19,6 +18,17 @@
   <img src="https://img.shields.io/badge/-React-20232A?&logo=react" />
   <img src="https://img.shields.io/badge/-Linux-FCC624?&logo=linux&logoColor=black" />
 </p>
+
+---
+
+### 🚀 My Projects:
+Here are some of the projects I've worked on:
+
+- 🌐 [**Portfolio Website**](https://github.com/ankitadhaakad/portfolio)  
+  A personal portfolio website built using HTML, CSS, and JavaScript with a dark theme and responsive layout.
+
+- ✈️ [**Tour & Travel Agency Website**](https://github.com/ankitadhaakad/tour-and-travel-website)  
+  A multi-page travel agency website showcasing destinations, packages, and filterable tours using HTML, CSS, and JavaScript.
 
 ---
 
@@ -34,5 +44,5 @@
 <p>
   <a href="https://www.linkedin.com/in/ankita-dhakad-b7a5aa319/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?&logo=linkedin" /></a>
   <a href="mailto:ankudhakad444@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?&logo=gmail" /></a>
-  <a href="https://instagram.com/ankita_atoliya" target="blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?&logo=instagram&logoColor=white" /></a>
+  <a href="https://instagram.com/ankita_atoliya" target="blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?&logo=instagram&logoColor=white" /></a>
 </p>
