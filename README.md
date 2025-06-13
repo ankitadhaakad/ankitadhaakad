@@ -24,7 +24,7 @@
 ### 🚀 My Projects:
 Here are some of the projects I've worked on:
 
-- 🌐 [**Portfolio Website**](https://github.com/ankitadhaakad/portfolio)  
+- 🌐 [**Portfolio Website**](https://github.com/ankitadhaakad/protfolio)  
   A personal portfolio website built using HTML, CSS, and JavaScript with a dark theme and responsive layout.
 
 - ✈️ [**Tour & Travel Agency Website**](https://github.com/ankitadhaakad/tour-and-travel-website)  
