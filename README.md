@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ankita Dhakad</h1>
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=ankitadhaakad.ankitadhaakad" alt="profile views" />
+</p>
+
 <h3 align="center">🌐 MCA in Cloud Computing | Passionate Developer | Lifelong Learner</h3>
 
 - 🔭 I’m currently studying at *Parul University*
