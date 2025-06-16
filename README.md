@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ankita Dhakad</h1>
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=ankitadhaakad.ankitadhaakad" alt="profile views" />
-</p>
+  ![Visitor Count](https://shields-io-visitor-counter.vercel.app/ankitadhaakad/ankitadhaakad?label=Profile%20Views&color=0e75b6&style=flat)
 
 <h3 align="center">🌐 MCA in Cloud Computing | Passionate Developer | Lifelong Learner</h3>
 
