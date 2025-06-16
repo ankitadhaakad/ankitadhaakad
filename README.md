@@ -1,8 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ankita Dhakad</h1>
-<p align="center">
-  <img src="https://shields-io-visitor-counter.vercel.app/ankitadhaakad/ankitadhaakad?label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
 ---
 
 ### 👩‍💻 About Me
