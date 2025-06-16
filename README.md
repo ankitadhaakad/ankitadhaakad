@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ankita Dhakad</h1>
 
-<p align="left">
- <img src="https://komarev.com/ghpvc/?username=ankitadhaakad&label=✨ Profile%20Views&color=ff69b4&style=for-the-badge" alt="Ankita Dhakad" />
 
-</p>
 
 <h3 align="center">🌐 MCA in Cloud Computing | Passionate Developer | Lifelong Learner</h3>
 
