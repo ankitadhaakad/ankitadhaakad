@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ankita Dhakad</h1>
 
 <p align="center">
-  <img src="https://shields-io-visitor-counter.vercel.app/ankitadhaakad/ankitadhaakad?label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  ✨ <img src="https://komarev.com/ghpvc/?username=ankitadhaakad&label=✨ Profile%20Views&color=ff69b4&style=for-the-badge" alt="Ankita Dhakad" /> ✨
 </p>
 
 <h3 align="center">🌐 MCA in Cloud Computing | Passionate Developer | Lifelong Learner</h3>
