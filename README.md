@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankita Dhakad</h1>
 
-
-
 <h3 align="center">🌐 MCA in Cloud Computing | Passionate Developer | Lifelong Learner</h3>
 
 ---
