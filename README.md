@@ -7,17 +7,17 @@
 ### 👩‍💻 About Me
 
 - 🔭 I’m currently studying at *Parul University*
-- 🌱 I’m learning *JavaScript, HTML/CSS, React, and Cloud Computing*
-- 💬 Ask me about *Web Dev, GitHub, and JavaScript Basics*
-- 📫 How to reach me: **ankudhakad444@gmail.com**
+- 🌱 Learning *JavaScript, HTML/CSS, React, and Cloud Computing*
+- 💬 Ask me about *Web Dev, GitHub, JavaScript Basics*
+- 📫 Reach me at: **ankudhakad444@gmail.com**
 - ⚡ Fun fact: *I love to code and explore new tech every day!*
-- 🎯 Goal: *To become a skilled Full Stack Developer and Cloud Engineer*
+- 🎯 Goal: *Become a Full Stack Developer & Cloud Engineer*
 
 ---
 
 ### 🛠 Languages & Tools
 
-<p>
+<p align="left">
   <img src="https://img.shields.io/badge/-Python-3776AB?&logo=python" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/-HTML5-E34F26?&logo=html5&logoColor=white" />
@@ -33,21 +33,23 @@
 ### 🚀 My Projects
 
 - 🌐 [**Portfolio Website**](https://github.com/ankitadhaakad/protfolio)  
-  A responsive portfolio website built using HTML, CSS, and JavaScript with a dark theme.
-
 - ✈️ [**Tour & Travel Agency Website**](https://github.com/ankitadhaakad/tour-and-travel-website)  
-  A multi-page website showcasing destinations, packages, and inquiry form built with HTML/CSS/JS.
-
-- 🔐 [**Password Generator (Python)**](https://github.com/ankitadhaakad/password-generator)  
-  A CLI-based random password generator project.
+- 🔐 [**Password Generator (Python)**](https://github.com/ankitadhaakad/password-generator)
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitadhaakad&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitadhaakad&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ankitadhaakad&show_icons=true&theme=tokyonight" alt="Ankita's GitHub stats" />
+</p>
+
+---
+
+### 🧠 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitadhaakad&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -55,7 +57,7 @@
 ### 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ankitadhaakad&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="Ankita's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=ankitadhaakad&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
 ---
@@ -76,8 +78,14 @@
 
 ### 🔗 Connect with Me
 
-<p>
-  <a href="https://www.linkedin.com/in/ankita-dhakad-b7a5aa319/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?&logo=linkedin" /></a>
-  <a href="mailto:ankudhakad444@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?&logo=gmail" /></a>
-  <a href="https://instagram.com/ankita_atoliya" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?&logo=instagram&logoColor=white" /></a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/ankita-dhakad-b7a5aa319/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?&logo=linkedin" />
+  </a>
+  <a href="mailto:ankudhakad444@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?&logo=gmail" />
+  </a>
+  <a href="https://instagram.com/ankita_atoliya" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?&logo=instagram&logoColor=white" />
+  </a>
 </p>
