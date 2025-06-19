@@ -1,12 +1,12 @@
-<h1 align="left">Hi 👋, I'm Ankita Dhakad</h1>
-<h3 align="left">🌐 MCA in Cloud Computing | Passionate Developer | Lifelong Learner</h3>
+<h1 align="center">Hi 👋, I'm Ankita Dhakad</h1>
+<h3 align="center">🌐 MCA in Cloud Computing | Passionate Developer | Lifelong Learner</h3>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🔭 Currently studying at *Parul University*
-- 🌱 Learning *JavaScript, HTML/CSS, React, and Cloud Computing*
+- 🎓 MCA Student at *Parul University*
+- 🌱 Learning *JavaScript, HTML/CSS, React, Cloud Computing*
 - 💬 Ask me about *Web Dev, GitHub, JavaScript Basics*
 - 📫 Reach me at: **ankudhakad444@gmail.com**
 - ⚡ Fun fact: *I love to code and explore new tech every day!*
@@ -31,49 +31,56 @@
 
 ## 🚀 My Projects
 
-- 🌐 [**Portfolio Website**](https://github.com/ankitadhaakad/protfolio)
-- ✈️ [**Tour & Travel Agency Website**](https://github.com/ankitadhaakad/tour-and-travel-website)
-- 🔐 [**Password Generator (Python)**](https://github.com/ankitadhaakad/password-generator)
+### 🔹 [Portfolio Website](https://github.com/ankitadhaakad/protfolio)
+> A sleek personal portfolio made with HTML, CSS, and JavaScript. Features include a responsive layout, project cards, and a contact form.
+
+### 🔹 [Tour & Travel Agency Website](https://github.com/ankitadhaakad/tour-and-travel-website)
+> A travel booking site that displays destinations, packages, and includes a contact/inquiry form. Built with HTML, CSS, and JS.
+
+### 🔹 [Password Generator (Python)](https://github.com/ankitadhaakad/password-generator)
+> Simple GUI-based password generator using Python's `random` module and `tkinter`. Great for improving Python basics.
+
+> More projects coming soon...
 
 ---
 
 ## 🏆 Achievements
 
-- 🌟 Consistently learning and building full-stack applications with **JavaScript & React**
-- 🧠 Solved multiple coding challenges and improved algorithms in **Python & JavaScript**
-- 🚀 Participated in cloud workshops and hands-on labs during MCA program
-- 👩‍🏫 Helping juniors with GitHub setup and web dev fundamentals
-- 💡 Actively sharing insights and resources with the student developer community
+- 🌟 Built full-stack mini apps using JavaScript & React
+- 📚 Improved problem-solving via regular coding practice
+- 🌐 Participated in cloud tech workshops during MCA
+- 🧑‍💻 Helped peers learn Git & GitHub from scratch
+- 💬 Active in the developer student community
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitadhaakad&show_icons=true&theme=tokyonight" alt="Ankita's GitHub stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ankitadhaakad&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ankitadhaakad&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
 ---
 
 ## 🧠 Top Languages
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitadhaakad&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=ankitadhaakad&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
 ---
 
 ## 🏅 GitHub Trophies
 
-<p align="left">
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ankitadhaakad&theme=tokyonight&column=7&no-frame=true" />
 </p>
 
