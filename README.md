@@ -93,10 +93,14 @@
 ## 🔗 Connect with Me
 
 <p align="left">
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ankudhakad444@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Gmail-D14836?&logo=gmail" />
-</a>
-
-  <a href="https://www.linkedin.com/in/ankita-dhakad-b7a5aa319/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?&logo=linkedin" /></a>
-  <a href="https://instagram.com/ankita_atoliya" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?&logo=instagram&logoColor=white" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ankudhakad444@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?&logo=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/ankita-dhakad-b7a5aa319/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?&logo=linkedin" />
+  </a>
+  <a href="https://instagram.com/ankita_atoliya" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?&logo=instagram&logoColor=white" />
+  </a>
 </p>
+
