@@ -40,8 +40,6 @@
 ### 🔹 [Password Generator (Python)](https://github.com/ankitadhaakad/password-generator)
 > Simple GUI-based password generator using Python's `random` module and `tkinter`. Great for improving Python basics.
 
-> More projects coming soon...
-
 ---
 
 ## 🏆 Achievements
