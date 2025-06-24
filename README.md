@@ -1,7 +1,7 @@
-<!-- 👇 HEADER BANNER 👇 -->
+
 ![Ankita Dhakad GitHub Header](https://capsule-render.vercel.app/api?type=waving&color=0:007BFF,100:00C853&height=200&section=header&text=Ankita%20Dhakad&fontSize=40&fontAlignY=35&desc=Welcome%20to%20My%20GitHub%20Profile!&descAlignY=60&descAlign=50&animation=twinkling)
 
-<!-- 👇 NEW AVATAR LINK 👇 -->
+
 <p align="center">
   <img 
     src="https://github.com/ankitadhaakad/ankitadhaakad/blob/main/ankita_dhakad_avatar%20(1).png?raw=true" 
